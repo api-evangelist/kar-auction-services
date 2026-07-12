@@ -24,6 +24,8 @@ modified: '2026-04-28'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/kar-auction-services-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/kar-auction-services-inc
   - type: Successor
@@ -36,6 +38,8 @@ common:
     url: https://www.iaai.com
   - type: Website
     url: https://www.openlane.com
+  - url: https://www.openlane.com/feed/
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
