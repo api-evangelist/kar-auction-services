@@ -1,7 +1,9 @@
 ---
 title: 'PRESS RELEASE: Simplifying car remarketing through AI'
 url: https://cms.openlane.eu/en/blogs/blog/2023/02/06/press-release-simplifying-car-remarketing-through-ai
-date: '2026-05-25'
+published: '2023-02-06'
+date_basis: url-derived
+harvested: '2026-05-25'
 query: '"Kar Auction Services" press release artificial intelligence'
 position: 4
 source: serpapi-google

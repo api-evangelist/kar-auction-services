@@ -1,7 +1,9 @@
 ---
 title: TradeRev Unveils 'H' — Artificial Intelligence to Enhance the Digital ...
 url: https://corporate.openlane.com/traderev-unveils-h-artificial-intelligence-to-enhance-the-digital-auction-experience/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Kar Auction Services" press release artificial intelligence'
 position: 5
 source: serpapi-google
